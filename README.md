@@ -5,11 +5,11 @@
 <h2>Download</h2>
 <p><em>Open the Repository</em></p>
 <ul>
-<li><code>git clone myexploittohere</code></li>
+<li><code>git clone https://github.com/THYemre/RotundaUserEnum.git</code></li>
 </ul>
 <p><em>Open RotundaUserEnum Path</em></p>
 <ul>
-<li><code>cd RotundaUser</code></li>
+<li><code>cd RotundaUserEnum</code></li>
 </ul>
 <h2>Usage</h2>
 <p><em>Run with Python</em></p>
