@@ -1,6 +1,6 @@
 # RotundaUserEnum
 
-<p>Rotunda Username Enumeration Exploit</p>
+<p>Rotunda Username Enumeration</p>
 <p><strong>Language :</strong> Python</p>
 <h2>Download</h2>
 <p><em>Open the Repository</em></p>
