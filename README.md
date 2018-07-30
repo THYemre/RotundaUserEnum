@@ -20,3 +20,4 @@
 <p><strong>Version :</strong>  Beta <strong>1</strong></p>
 <p><strong>Author  :</strong> Emre Selim</p>
 <p>Thanks.</p>
+<p href="https://twitter.com/emre_selim8/">Visit our HTML tutorial</p1>
